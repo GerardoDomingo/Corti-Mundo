@@ -1,7 +1,6 @@
 import React from 'react';
 import { FaFacebookF, FaTwitter, FaInstagram, FaYoutube } from 'react-icons/fa';
-import '../Estilo/estiloMenuN.css';
-import '../Css/style.css';
+
 import imagen from '../img/Logo_CortiMundo_blanco.png';
 
 function Topbar() {
